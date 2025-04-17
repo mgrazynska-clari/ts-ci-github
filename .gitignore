@@ -4,8 +4,8 @@
 #
 # IGNORE ALL FILES AND SUBDIRECTORIES,
 # BUT DON'T IGNORE THE ROOT DIRECTORY.
-*
-!*/
+# *
+# !*/
 # ======================================================================
 
 # TRACK THIS FILE.
